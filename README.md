@@ -81,9 +81,9 @@ Access https://app.diagrams.net/
 
 ![](SocialERDiagram.drawio.svg)
 
-> Instância mínima: 4 usuários, pelo menos um usuário com mais de uma postagem, pelo menos um álbum com mais de uma foto.
+[Social Object Diagram](SocialObjectDiagram.drawio.md)
 
-![](SocialObjectDiagram.drawio.svg)
+> Instância mínima: 4 usuários, pelo menos um usuário com mais de uma postagem, pelo menos um álbum com mais de uma foto.
 
 ## :memo: License
 
