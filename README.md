@@ -9,13 +9,13 @@
 <h1 align="center">Modeling</h1>
 
 <p align="center">
-  <img alt="Github top language" src="https://img.shields.io/github/languages/top/jocile/modelagem?color=56BEB8">
+  <img alt="Github top language" src="https://img.shields.io/github/languages/top/jocile/Modeling?color=56BEB8">
 
-  <img alt="Github language count" src="https://img.shields.io/github/languages/count/jocile/modelagem?color=56BEB8">
+  <img alt="Github language count" src="https://img.shields.io/github/languages/count/jocile/Modeling?color=56BEB8">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/jocile/modelagem?color=56BEB8">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/jocile/Modeling?color=56BEB8">
 
-  <img alt="License" src="https://img.shields.io/github/license/jocile/modelagem?color=56BEB8">
+  <img alt="License" src="https://img.shields.io/github/license/jocile/Modeling?color=56BEB8">
 
   <!-- <img alt="Github issues" src="https://img.shields.io/github/issues/jocile/modelagem?color=56BEB8" /> -->
 
@@ -74,6 +74,10 @@ Access https://app.diagrams.net/
 ```
 
 ## :checkered_flag: Diagrams
+
+- :heavy_check_mark: Social network system.
+
+> In this social network, users can follow and be followed by other users. The user's profile must allow the registration of name, email, date of birth, website, gender, phone and profile picture. Users can make text posts on their own "timeline" (timeline) of the social network, and they can also attach photos to the posts. A photo is referenced by the URI of its storage location. The photos can be organized into albums, with each album having a title.
 
 ![](SocialERDiagram.drawio.svg)
 
