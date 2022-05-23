@@ -81,6 +81,10 @@ Access https://app.diagrams.net/
 
 ![](SocialERDiagram.drawio.svg)
 
+> Instância mínima: 4 usuários, pelo menos um usuário com mais de uma postagem, pelo menos um álbum com mais de uma foto.
+
+![](SocialObjectDiagram.drawio.svg)
+
 ## :memo: License
 
 This project is under license from MIT. For more details, see the [LICENSE](LICENSE.md) file.
