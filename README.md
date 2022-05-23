@@ -81,9 +81,11 @@ Access https://app.diagrams.net/
 
 ![](SocialERDiagram.drawio.svg)
 
-[Social Object Diagram](SocialObjectDiagram.drawio.md)
+## :checkered_flag: More Diagrams
 
-> Instância mínima: 4 usuários, pelo menos um usuário com mais de uma postagem, pelo menos um álbum com mais de uma foto.
+- :heavy_check_mark: [Social Object Diagram](SocialObjectDiagram.md)
+
+> Minimum instance: 4 users, at least one user with more than one post, at least one album with more than one photo.
 
 ## :memo: License
 
