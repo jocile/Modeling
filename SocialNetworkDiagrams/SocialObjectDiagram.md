@@ -12,10 +12,10 @@
 
 > Minimum instance: 4 users, at least one user with more than one post, at least one album with more than one photo.
 
-![](SocialObjectDiagram.drawio.svg)
+![](SocialObjectDiagram.drawio.png)
 
 Made with :heart: by <a href="https://github.com/jocile" target="_blank">Jocile</a>
 
 &#xa0;
 
-[Readme.md](README.md) | <a href="#top">Back to top</a>
+[Readme.md](../README.md) | <a href="#top">Back to top</a>
