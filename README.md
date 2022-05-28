@@ -87,6 +87,12 @@ Access https://app.diagrams.net/
 
 > Minimum instance: 4 users, at least one user with more than one post, at least one album with more than one photo.
 
+- :heavy_check_mark: [Music System Diagrams](MusicDiagrams/MusicDiagram.md)
+
+> Design a System for keeping a record of musical artists and their albums. Each album has several songs, which can be consulted by the system. The system it should also allow searching for artists by name or nationality. The system must also be able to display a report of an artist's albums, which can be sorted by name, year, or duration album total. An album can have the participation of several artists, without distinction. Now the music can have one or more authors and performers (all considered artists).
+
+> Minimum Instance: 2 artists, 3 albums, 4 songs.
+
 ## :memo: License
 
 This project is under license from MIT. For more details, see the [LICENSE](LICENSE.md) file.
