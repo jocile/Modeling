@@ -87,21 +87,13 @@ Access https://app.diagrams.net/
 
 ## :checkered_flag: More Diagrams
 
-- :heavy_check_mark: [Social Object Diagram](SocialNetworkDiagrams/README.md)
+- :heavy_check_mark: [Social Object Diagram](SocialNetworkDiagrams/)
 
 > Minimum instance: 4 users, at least one user with more than one post, at least one album with more than one photo.
 
-- :heavy_check_mark: [Music System Diagrams](MusicDiagrams/README.md)
-
-> Design a System for keeping a record of musical artists and their albums. Each album has several songs, which can be consulted by the system. The system it should also allow searching for artists by name or nationality. The system must also be able to display a report of an artist's albums, which can be sorted by name, year, or duration album total. An album can have the participation of several artists, without distinction. Now the music can have one or more authors and performers (all considered artists).
-
-> Minimum Instance: 2 artists, 3 albums, 4 songs.
-
-- :heavy_check_mark: [Footballs System Diagrams](FootballDiagrams/README.md)
-
-> Design a system to manage the information of championships of football, which take place every year. You want to know the name, date of birth, gender and height of the players of each team, as well as which one is the captain of each team. Each championship match takes place in a stadium, which has a name and address. Each team has its home stadium and, thus, each match has a home team (host) and a visiting team. The system must be able to list the matches already held and not held of a championship. The system must also be able to list the championship table, ordering the teams by classification, which is calculated first by win balance and second by goal difference.
-
-> Minimum instance: 1 championship, 2 matches, 2 teams, 2 players on each team.
+- :heavy_check_mark: [Footballs System Diagrams](EventsDiagrams/)
+- :heavy_check_mark: [Footballs System Diagrams](FootballDiagrams/)
+- :heavy_check_mark: [Music System Diagrams](MusicDiagrams/)
 
 ## :memo: License
 
