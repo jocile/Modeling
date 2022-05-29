@@ -87,11 +87,11 @@ Access https://app.diagrams.net/
 
 ## :checkered_flag: More Diagrams
 
-- :heavy_check_mark: [Social Object Diagram](SocialNetworkDiagrams/SocialObjectDiagram.md)
+- :heavy_check_mark: [Social Object Diagram](SocialNetworkDiagrams/README.md)
 
 > Minimum instance: 4 users, at least one user with more than one post, at least one album with more than one photo.
 
-- :heavy_check_mark: [Music System Diagrams](MusicDiagrams/MusicDiagram.md)
+- :heavy_check_mark: [Music System Diagrams](MusicDiagrams/README.md)
 
 > Design a System for keeping a record of musical artists and their albums. Each album has several songs, which can be consulted by the system. The system it should also allow searching for artists by name or nationality. The system must also be able to display a report of an artist's albums, which can be sorted by name, year, or duration album total. An album can have the participation of several artists, without distinction. Now the music can have one or more authors and performers (all considered artists).
 
@@ -111,6 +111,7 @@ This project is under license from MIT. For more details, see the [LICENSE](LICE
 
 - [StarUML documentation - Entity-Relationship Diagram](https://docs.staruml.io/working-with-additional-diagrams/entity-relationship-diagram)
 - [UML - ERD modeling](http://www.uml.org.cn/UMLTools/pdf/ermodeling.pdf)
+- [UML Tutorials](https://www.startertutorials.com/uml/relationships.html)
 
 Made with :heart: by <a href="https://github.com/jocile" target="_blank">Jocile</a>
 
