@@ -46,7 +46,11 @@
 
 ## :dart: About
 
-Entity and Relationship Modeling Exercises from [DevSuperior](https://devsuperior.com.br/) course.
+The steps presented in this task assume that the application's persistent data design will be implemented using a Relational Database Management System (RDBMS). It is assumed that you are familiar with database concepts, including normalization and denormalization, as well as database terminology, as covered in references such as ERD Modeling.
+
+The steps of this task also refer to the UML (Unified Modeling Language) language profile for database modeling, and contains an overview of the process for modeling and designing relational databases using UML. For additional information about the relationship between relational data models and object models, see Concept: Relational Databases and Object Orientation.
+
+The Entity and Relationship Modeling Exercises from [DevSuperior](https://devsuperior.com.br/) course.
 
 ## :sparkles: Features
 
@@ -93,7 +97,7 @@ Access https://app.diagrams.net/
 
 > Minimum Instance: 2 artists, 3 albums, 4 songs.
 
-- :heavy_check_mark: [Footballs System Diagrams](FootballDiagrams/FootballDiagram.md)
+- :heavy_check_mark: [Footballs System Diagrams](FootballDiagrams/README.md)
 
 > Design a system to manage the information of championships of football, which take place every year. You want to know the name, date of birth, gender and height of the players of each team, as well as which one is the captain of each team. Each championship match takes place in a stadium, which has a name and address. Each team has its home stadium and, thus, each match has a home team (host) and a visiting team. The system must be able to list the matches already held and not held of a championship. The system must also be able to list the championship table, ordering the teams by classification, which is calculated first by win balance and second by goal difference.
 
@@ -102,6 +106,11 @@ Access https://app.diagrams.net/
 ## :memo: License
 
 This project is under license from MIT. For more details, see the [LICENSE](LICENSE.md) file.
+
+## References
+
+- [StarUML documentation - Entity-Relationship Diagram](https://docs.staruml.io/working-with-additional-diagrams/entity-relationship-diagram)
+- [UML - ERD modeling](http://www.uml.org.cn/UMLTools/pdf/ermodeling.pdf)
 
 Made with :heart: by <a href="https://github.com/jocile" target="_blank">Jocile</a>
 
