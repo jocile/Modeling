@@ -46,11 +46,10 @@
 
 ## :dart: About
 
-The steps presented in this task assume that the application's persistent data design will be implemented using a Relational Database Management System (RDBMS). It is assumed that you are familiar with database concepts, including normalization and denormalization, as well as database terminology, as covered in references such as ERD Modeling.
-
-The steps of this task also refer to the UML (Unified Modeling Language) language profile for database modeling, and contains an overview of the process for modeling and designing relational databases using UML. For additional information about the relationship between relational data models and object models, see Concept: Relational Databases and Object Orientation.
-
-The Entity and Relationship Modeling Exercises from [DevSuperior](https://devsuperior.com.br/) course.
+:heavy_check_mark: The steps presented in this task assume that the application's persistent data design will be implemented using a Relational Database Management System (RDBMS). It is assumed that you are familiar with database concepts, including normalization and denormalization, as well as database terminology, as covered in references such as ERD Modeling;\
+:heavy_check_mark: The steps of this task also refer to the UML (Unified Modeling Language) language profile for database modeling, and contains an overview of the process for modeling and designing relational databases using UML. For additional information about the relationship between relational data models and object models, see Concept: Relational Databases and Object Orientation;\
+:heavy_check_mark: Role: Database Designer - This function guides the design of the persistent data storage structure for use by the system.
+:heavy_check_mark: The Entity and Relationship Modeling Exercises from [DevSuperior](https://devsuperior.com.br/) course.
 
 ## :sparkles: Features
 
@@ -91,7 +90,7 @@ Access https://app.diagrams.net/
 
 > Minimum instance: 4 users, at least one user with more than one post, at least one album with more than one photo.
 
-- :heavy_check_mark: [Footballs System Diagrams](EventsDiagrams/)
+- :heavy_check_mark: [Events System Diagrams](EventsDiagrams/)
 - :heavy_check_mark: [Footballs System Diagrams](FootballDiagrams/)
 - :heavy_check_mark: [Music System Diagrams](MusicDiagrams/)
 
